@@ -1,6 +1,7 @@
 --made by scandalous
 
 --PartCache made by Xan_TheDragon (edited, because the original is quite stinky)
+--https://github.com/QuantumDreemurr/effect-module
 
 local PartCacheStatic = {}
 PartCacheStatic.__index = PartCacheStatic
